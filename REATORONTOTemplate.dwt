@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	
+	<!-- #BeginEditable "doctitle" -->
+	<title>REALTORONTOTemplate</title>
+	<!-- #EndEditable -->
+	
+	<meta content="REALTORONTO" name="keywords" />
+	<meta content="REALTORONTOTemplate" name="description" />
+	
+	<link href="REATORONTOTemplateCSS.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="bodyDiv">
+	<!-- Header  -->
+	<div id="headerDiv">
+		<ul id="headerUl">
+			<li><a class="headerList" href="../Week02-Assignment1/index.html">Home</a></li>
+			<li><a class="headerList" href="#">Global Properties</a></li>
+			<li><a class="headerList" href="#">Commertial Properties</a></li>
+			<li>
+				<select id="headerAreaList" name="Area">
+					<option>Tornto</option>
+					<option>Mississauga</option>
+					<option>Scarborough</option>
+				</select>
+			</li>
+		</ul>
+		
+		<a href="REALTORONTOMain.html">
+			<img id="REALTORONTOLogo" alt="REALTORONTOLogo" src="images/REALTORONTOLogo.PNG" />
+		</a>
+	</div>
+	
+	<!-- Navigation -->
+	<div id="navigation">
+		<table>
+			<tr>
+				<td><a href="Buying.html"><img class="navButton" alt="NavBuying" src="images/NavBuying.png" /></a></td>
+				<td><a href="Selling.html"><img class="navButton" alt="NavSelling" src="images/NavSelling.png" /></a></td>
+				<td><a href="#"><img class="navButton" alt="NavFindAgent" src="images/NavFindAgent.png" /></a></td>
+				<td><a href="AboutUs.html"><img class="navButton" alt="NavAboutUs" src="images/NavAbout.png" /></a></td>
+				<td><a href="#"><img class="navButton" alt="NavBlog" src="images/NavBlog.png" /></a></td>
+				<td id="navButtonLogin"><a href="#"><img class="navButton" alt="NavLogIn" src="images/NavLogIn.png" /></a></td>
+			</tr>
+		</table>
+	</div>
+	
+	<!-- Contents -->
+	<!-- #BeginEditable "body" -->
+	<div id="contentsDiv">
+	</div>
+	<!-- #EndEditable -->
+
+	<!-- Footer -->
+	<div id="footerDiv">
+		<p id="footArticle">Copyright&nbsp;&amp;&nbsp;2018 REALTORONTO&reg;, and the associated logos are trademarks of The Canadian Real Estate Association</p>
+	</div>
+	
+</div>
+</body>
+
+</html>

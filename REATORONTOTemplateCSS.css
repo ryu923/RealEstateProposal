@@ -1,0 +1,93 @@
+﻿/* All */
+body
+{
+	margin:0px;	
+}
+
+#bodyDiv
+{
+	width:980px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/* Header */
+#headerDiv
+{
+	vertical-align:middle;
+	height:100px;
+	padding:10px;
+	background-image:url('images/REALTORONTOLogo2.png');
+	background-repeat:no-repeat;
+	background-position:right;
+	
+}
+
+#headerUl
+{
+	list-style:none;
+	float:right;
+	margin-right:140px;
+	margin-left:0px;
+	margin-top:15px;
+}
+
+li
+{
+	margin-bottom:5px;
+	margin-top:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:gray;
+}
+
+#headerAreaList
+{
+	width:150px;
+}
+
+.headerList
+{
+	text-decoration:none;
+	color:gray;
+}
+
+
+/* Navigation */
+#navigation
+{
+	background-color:#0F4B91;
+}
+
+.navButton
+{
+	height:50px;
+	width:130px;
+}
+
+#navButtonLogin
+{
+	width:300px;
+	text-align:right;
+}
+
+/* Contents */
+contentsDiv
+{
+	margin:0px;
+}
+
+/* Footer */
+#footerDiv
+{
+	background-color:#0F4B91;
+	height:30px;
+	margin:0px;
+}
+
+#footArticle
+{
+	color:white;
+	text-align:center;
+	margin-top:auto;
+	font-size:small;
+}

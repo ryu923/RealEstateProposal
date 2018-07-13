@@ -1,0 +1,197 @@
+﻿/* REALTORONTO-Main */
+#mainContentsDiv
+{
+	background-image:url('images/TrontoBackground.png');
+	width:inherit;
+	height:500px;
+	margin:0px;
+	text-align:center;
+	vertical-align:middle;
+
+}
+
+#mainContentsSearchingTitle
+{
+	font-family:Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+	font-size:50px;
+	color:white;
+	text-align:center;
+	height:100px;
+	padding-top:100px;
+	margin:0px;
+}
+
+#mainTable
+{
+	width:700px;
+	height:50px;
+	background-color:gray;
+	padding:10px;
+	margin-left:auto;
+	margin-right:auto;
+	opacity:0.9;
+}
+
+#mainColumn1
+{
+	width:100px;
+	background-color:#0F4B91;
+}
+
+#mainColumn3
+{
+	width:70px;
+	background-color:#D8272D;
+	font-family:"Arial Black";
+	color:white;
+}
+
+#mainSearchButton
+{
+	width:70px;
+	background-color:#D8272D;
+	font-family:"Arial Black";
+	color:white;
+
+}
+
+#mainSearchTextBox
+{
+	width:430px;
+	height:40px;
+	padding-left:10px;
+}
+
+/* Buying */
+.buyingThumbPicture
+{
+	width:100px;
+	height:75px;
+}
+
+.buyingPicture
+{
+	width:400px;
+	height:300px;
+}
+
+span
+{
+	display:none;
+}
+
+#houseGallaery
+{
+	height:350px;
+	width:950px;
+	vertical-align:top;
+}
+
+.buyingThumbPicture a:hover span
+{
+	display:block;
+	position:absolute;
+	top:670px;
+	left:580px;
+	text-align:center;
+}
+
+ul
+{
+	list-style-type:none;
+}
+
+#buyingFieldset
+{
+	background-color:gray;
+	color:white;
+	font-family:"Arial Black";
+	border:none;
+}
+
+#buyingTable
+{
+	width:950px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#0F4B91;
+	margin:0px;
+}
+
+.buyingFieldsetTitleColumn
+{
+	text-align:right;
+}
+
+.buyingFieldsetContentsColumn
+{
+	text-align:center;
+}
+
+#buyingLegend
+{
+	width:300px;
+	height:30px;
+	background-color:#D8272D;
+	text-align:center;
+	font-size:large;
+}
+
+#buyingLegendPicture
+{
+	width:300px;
+	height:30px;
+	background-color:#D8272D;
+	text-align:center;
+	font-size:large;
+	color:white;
+}
+
+.propertyPhotoesList
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#buyingFieldsetPicture
+{
+	color:black;
+	font-family:"Arial Black";
+	border:thin;
+	border-color:#0F4B91;
+	margin-top:10px;
+	background-color:gray;
+}
+
+/* Selling */
+#sellingContentsDiv
+{
+	font-family:"Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	color:gray;
+}
+
+#sellingHeader
+{
+	font-size:30px;
+	color:#0F4B91;
+	text-align:Left;
+}
+
+#sellingButton
+{
+	text-align:center;
+}
+
+/* About Us */
+#aboutUsContentsDiv
+{
+	font-family:"Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	color:gray;
+}
+
+.aboutUsParagraphHead
+{
+	font-size:30px;
+	color:#0F4B91;
+	text-align:Left;	
+}
